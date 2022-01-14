@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Sergio Luis Cardoso
-- 👀 I’m interested in technology.
+- 👀 I’m interested in Technology.
 - 🌱 I’m currently learning Javascript.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
