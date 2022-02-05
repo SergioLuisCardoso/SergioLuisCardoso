@@ -5,8 +5,9 @@
 - 📫 How to reach me ...
 --->
 
+<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioLuisCardoso&show_icons=true&theme=synthwave)
-
+--->
 
 <!---
 SergioLuisCardoso/SergioLuisCardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
