@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SergioLuisCardoso=anuraghazra&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?SergioLuisCardoso=anuraghazra&show_icons=true&theme=radical
 
 <!---
 SergioLuisCardoso/SergioLuisCardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
