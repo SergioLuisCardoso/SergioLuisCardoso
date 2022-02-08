@@ -6,9 +6,11 @@
 
 <br><br>
 
-[![SergioLuisCardoso](https://github-readme-stats.vercel.app/api?username=SergioLuisCardoso&theme=tokyonight)](https://github.com/SergioLuisCardoso/)
-[![SergioLuisCardoso](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLuisCardoso&hide=html&layout=compact&theme=tokyonight)](https://github.com/SergioLuisCardoso/)
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioLuisCardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLuisCardoso&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 #### **Programming languages ​​and tools:**  
 
