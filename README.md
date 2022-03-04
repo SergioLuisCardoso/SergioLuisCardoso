@@ -1,8 +1,7 @@
   Welcome to my Github profile.
-- 👋 I’m  Sergio Luis Cardoso    
-- 👀 I’m interested in Technology.
-- 🌱 I have knowledge in Javascript, HTML, CSS and Java.
-
+- I’m  Sergio Luis Cardoso    
+- I’m interested in Technology.
+- I have knowledge in Javascript, HTML, CSS, Bootstrap and Java.
 
 <br><br>
 
@@ -33,6 +32,9 @@
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 👋 I’m  Sergio Luis Cardoso    
+- 👀 I’m interested in Technology.
+- 🌱 I have knowledge in Javascript, HTML, CSS and Java.
 
 
 --->
