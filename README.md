@@ -5,6 +5,24 @@
 
 <br><br>
 
+<p align="center">
+  <a href="https://github.com/SergioLuisCardoso">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=SergioLuisCardoso&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/SergioLuisCardoso">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLuisCardoso&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
+
+<!---
 <div>
 <a href="https://github.com/SergioLuisCardoso">
 <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=SergioLuisCardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,6 +32,8 @@
 <br><br>  
 <p align="center">🔥 Github Streaks</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioLuisCardoso&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="rexpository" /></p>
+
+---!>
 
 #### **Programming languages ​​and tools:**  
 
