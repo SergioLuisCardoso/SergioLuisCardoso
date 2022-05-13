@@ -1,4 +1,4 @@
-  Welcome to my Github profile.
+  Be very welcome to my Github profile.
 - I’m  Sergio Luis Cardoso and I live in São Paulo.    
 - I'm interested in everything that involves Technology.
 - I have knowledge in Javascript, HTML, CSS, Node, React, Bootstrap and Java.
