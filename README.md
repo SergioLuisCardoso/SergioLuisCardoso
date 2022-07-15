@@ -1,4 +1,4 @@
- Welcome, this is my Github profile.
+ Welcome dev, this is my Github profile.
 - I’m  Sergio and I live in São Paulo.    
 - I'm interested in everything that involves Technology and Development.
 - I have knowledge in Javascript, HTML, CSS, NodeJS, ReactJS, Wordpress, Bootstrap and Java.
