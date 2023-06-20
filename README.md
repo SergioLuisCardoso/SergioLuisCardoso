@@ -1,7 +1,8 @@
- Welcome Devs, this is my Github profile!
-- I’m  Sergio Cardoso and I live in S. Paulo.    
-- I'm interested in everything that involves Technology and Development.
-- I have knowledge in Javascript, HTML, CSS, SCSS, NodeJS, ReactJS, AWS, Wordpress, Bootstrap and Java.
+Welcome Devs, this is my Github profile!
+
+I’m Sergio Cardoso and I live in São Paulo.    
+I'm interested in everything that involves Technology and Development.
+I have knowledge in Javascript, HTML, CSS, SCSS, NodeJS, ReactJS, AWS, Wordpress, Bootstrap and Java.
 
 <br><br>
 
