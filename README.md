@@ -1,4 +1,4 @@
-Welcome Devs, this is my Github profile!
+Welcome developers, this is my Github profile!
 
 I’m Sergio L Cardoso and I live in São Paulo.    
 I'm very interested in everything that involves Technology and Development.
